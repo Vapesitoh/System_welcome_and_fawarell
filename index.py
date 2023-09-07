@@ -9,7 +9,7 @@ import requests
 import random
 
 # Token de tu bot
-TOKEN = 'MTE0ODcyMTM3ODg2MjgzMzg0Ng.Gc3jZz.0_p_tdR-7_ZrzPQafWTuoom7X37fm5iM0tuHD0'
+TOKEN = 'MTE0ODcyMTM3ODg2MjgzMzg0Ng.GskP-Q.yWJVUlUkuFUFWdUthToia3WGiJW-3WEJYyYzAY'
 
 # Tu código del bot de Discord
 
