@@ -13,7 +13,6 @@ TOKEN = 'MTE0ODcyMTM3ODg2MjgzMzg0Ng.GskP-Q.yWJVUlUkuFUFWdUthToia3WGiJW-3WEJYyYzA
 
 # Tu código del bot de Discord
 
-my_secret = os.environ['TOKEN']
 # URL de la imagen de fondo
 background_url_bienvenida = 'https://e1.pxfuel.com/desktop-wallpaper/90/671/desktop-wallpaper-anime-city-anime-backgrounds-city-anime.jpg'
 background_url_despedida = 'https://s1.zerochan.net/Theresa.Apocalypse.600.3490572.jpg'
