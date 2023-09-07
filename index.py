@@ -1,6 +1,4 @@
 import os
-from http.server import HTTPServer, BaseHTTPRequestHandler
-from web_server import run_web_server  # Importa la función desde web_server.py
 import discord
 from discord.ext import commands
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
