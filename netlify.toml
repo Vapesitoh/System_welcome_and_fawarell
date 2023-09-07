@@ -1,0 +1,11 @@
+[build]
+  command = "pip install -r requirements.txt && python index.py"  # Comando para instalar dependencias y ejecutar tu aplicación
+  functions = "functions"  # Carpeta donde se encuentran tus funciones sin servidor (si las tienes)
+
+[dev]
+  functionsPort = 34567  # Puerto para funciones sin servidor en entorno de desarrollo
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
